@@ -13,6 +13,7 @@ export default class Exercise5 extends React.Component {
                     <li>Add a state property called <code>isOpen</code></li>
                     <li>Add a click handler called <code>toggleDropdown</code> that makes the content hide/show on click.</li>
                     <li>Ensure that the corresponding tests pass.</li>
+                    <li>If time permitting refactor tests using react-testing-library</li>
                 </ol>
             </div>
         )
